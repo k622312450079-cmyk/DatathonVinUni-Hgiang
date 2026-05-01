@@ -145,13 +145,3 @@ submission_final.csv
 
 ---
 
-## 👨‍💻 Author
-
-**Nguyen (dakiohnguyen)**
-📍 Data Science / Machine Learning
-
----
-
-## ⭐ If you find this useful
-
-Give this repo a ⭐ to support!
